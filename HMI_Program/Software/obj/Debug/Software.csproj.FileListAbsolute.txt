@@ -1,0 +1,12 @@
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\PenGantry\Software\bin\Debug\Software.exe.config
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\HMI_Program\Software\bin\Debug\Software.exe.config
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\HMI_Program\Software\obj\Debug\Software.csprojResolveAssemblyReference.cache
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\HMI_Program\Software\obj\Debug\Software.HMI.resources
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\HMI_Program\Software\obj\Debug\Software.Properties.Resources.resources
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\HMI_Program\Software\obj\Debug\Software.csproj.GenerateResource.Cache
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\HMI_Program\Software\bin\Debug\Software.exe
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\HMI_Program\Software\bin\Debug\Software.pdb
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\HMI_Program\Software\bin\Debug\TwinCAT.Ads.dll
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\HMI_Program\Software\bin\Debug\TwinCAT.Ads.xml
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\HMI_Program\Software\obj\Debug\Software.exe
+E:\Projects\VS2015_C#\Development_and_Tools\03.PLC\Beckhoff\Pen_Gantry_master\HMI_Program\Software\obj\Debug\Software.pdb
